@@ -1,0 +1,15 @@
+E:\Project-sayaaaaa\learn-C-Sharp\1. Introduction\bin\Debug\net8.0\1. Introduction.exe
+E:\Project-sayaaaaa\learn-C-Sharp\1. Introduction\bin\Debug\net8.0\1. Introduction.deps.json
+E:\Project-sayaaaaa\learn-C-Sharp\1. Introduction\bin\Debug\net8.0\1. Introduction.runtimeconfig.json
+E:\Project-sayaaaaa\learn-C-Sharp\1. Introduction\bin\Debug\net8.0\1. Introduction.dll
+E:\Project-sayaaaaa\learn-C-Sharp\1. Introduction\bin\Debug\net8.0\1. Introduction.pdb
+E:\Project-sayaaaaa\learn-C-Sharp\1. Introduction\obj\Debug\net8.0\1. Introduction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project-sayaaaaa\learn-C-Sharp\1. Introduction\obj\Debug\net8.0\1. Introduction.AssemblyInfoInputs.cache
+E:\Project-sayaaaaa\learn-C-Sharp\1. Introduction\obj\Debug\net8.0\1. Introduction.AssemblyInfo.cs
+E:\Project-sayaaaaa\learn-C-Sharp\1. Introduction\obj\Debug\net8.0\1. Introduction.csproj.CoreCompileInputs.cache
+E:\Project-sayaaaaa\learn-C-Sharp\1. Introduction\obj\Debug\net8.0\1. Introduction.sourcelink.json
+E:\Project-sayaaaaa\learn-C-Sharp\1. Introduction\obj\Debug\net8.0\1. Introduction.dll
+E:\Project-sayaaaaa\learn-C-Sharp\1. Introduction\obj\Debug\net8.0\refint\1. Introduction.dll
+E:\Project-sayaaaaa\learn-C-Sharp\1. Introduction\obj\Debug\net8.0\1. Introduction.pdb
+E:\Project-sayaaaaa\learn-C-Sharp\1. Introduction\obj\Debug\net8.0\1. Introduction.genruntimeconfig.cache
+E:\Project-sayaaaaa\learn-C-Sharp\1. Introduction\obj\Debug\net8.0\ref\1. Introduction.dll
