@@ -1,4 +1,5 @@
-##﻿# learn-C-Sharp
+# learn-C-Sharp
 
-## NIH REPO CUMAN BUAT W BELAJAR C#
-# SENGAJA UP DI GITHUB BUAT TAMBAH REPO + COMMIT :)
+soo, i started learn C# by now, hope its worth it..
+
+Note : this repo is just upload learning project from some exercise.. (Sekaligus nambah repo mwhwhwh)
