@@ -1,0 +1,15 @@
+E:\Project-sayaaaaa\learn-C-Sharp\5. Loop\obj\Debug\net8.0\5. Loop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project-sayaaaaa\learn-C-Sharp\5. Loop\obj\Debug\net8.0\5. Loop.AssemblyInfoInputs.cache
+E:\Project-sayaaaaa\learn-C-Sharp\5. Loop\obj\Debug\net8.0\5. Loop.AssemblyInfo.cs
+E:\Project-sayaaaaa\learn-C-Sharp\5. Loop\obj\Debug\net8.0\5. Loop.csproj.CoreCompileInputs.cache
+E:\Project-sayaaaaa\learn-C-Sharp\5. Loop\obj\Debug\net8.0\5. Loop.sourcelink.json
+E:\Project-sayaaaaa\learn-C-Sharp\5. Loop\bin\Debug\net8.0\5. Loop.exe
+E:\Project-sayaaaaa\learn-C-Sharp\5. Loop\bin\Debug\net8.0\5. Loop.deps.json
+E:\Project-sayaaaaa\learn-C-Sharp\5. Loop\bin\Debug\net8.0\5. Loop.runtimeconfig.json
+E:\Project-sayaaaaa\learn-C-Sharp\5. Loop\bin\Debug\net8.0\5. Loop.dll
+E:\Project-sayaaaaa\learn-C-Sharp\5. Loop\bin\Debug\net8.0\5. Loop.pdb
+E:\Project-sayaaaaa\learn-C-Sharp\5. Loop\obj\Debug\net8.0\5. Loop.dll
+E:\Project-sayaaaaa\learn-C-Sharp\5. Loop\obj\Debug\net8.0\refint\5. Loop.dll
+E:\Project-sayaaaaa\learn-C-Sharp\5. Loop\obj\Debug\net8.0\5. Loop.pdb
+E:\Project-sayaaaaa\learn-C-Sharp\5. Loop\obj\Debug\net8.0\5. Loop.genruntimeconfig.cache
+E:\Project-sayaaaaa\learn-C-Sharp\5. Loop\obj\Debug\net8.0\ref\5. Loop.dll
