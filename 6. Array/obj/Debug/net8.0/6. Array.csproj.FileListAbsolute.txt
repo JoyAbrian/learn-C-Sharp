@@ -1,0 +1,15 @@
+E:\Project-sayaaaaa\learn-C-Sharp\6. Array\obj\Debug\net8.0\6. Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project-sayaaaaa\learn-C-Sharp\6. Array\obj\Debug\net8.0\6. Array.AssemblyInfoInputs.cache
+E:\Project-sayaaaaa\learn-C-Sharp\6. Array\obj\Debug\net8.0\6. Array.AssemblyInfo.cs
+E:\Project-sayaaaaa\learn-C-Sharp\6. Array\obj\Debug\net8.0\6. Array.csproj.CoreCompileInputs.cache
+E:\Project-sayaaaaa\learn-C-Sharp\6. Array\obj\Debug\net8.0\6. Array.sourcelink.json
+E:\Project-sayaaaaa\learn-C-Sharp\6. Array\bin\Debug\net8.0\6. Array.exe
+E:\Project-sayaaaaa\learn-C-Sharp\6. Array\bin\Debug\net8.0\6. Array.deps.json
+E:\Project-sayaaaaa\learn-C-Sharp\6. Array\bin\Debug\net8.0\6. Array.runtimeconfig.json
+E:\Project-sayaaaaa\learn-C-Sharp\6. Array\bin\Debug\net8.0\6. Array.dll
+E:\Project-sayaaaaa\learn-C-Sharp\6. Array\bin\Debug\net8.0\6. Array.pdb
+E:\Project-sayaaaaa\learn-C-Sharp\6. Array\obj\Debug\net8.0\6. Array.dll
+E:\Project-sayaaaaa\learn-C-Sharp\6. Array\obj\Debug\net8.0\refint\6. Array.dll
+E:\Project-sayaaaaa\learn-C-Sharp\6. Array\obj\Debug\net8.0\6. Array.pdb
+E:\Project-sayaaaaa\learn-C-Sharp\6. Array\obj\Debug\net8.0\6. Array.genruntimeconfig.cache
+E:\Project-sayaaaaa\learn-C-Sharp\6. Array\obj\Debug\net8.0\ref\6. Array.dll
