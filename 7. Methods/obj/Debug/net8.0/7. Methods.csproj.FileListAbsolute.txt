@@ -1,0 +1,15 @@
+E:\Project-sayaaaaa\learn-C-Sharp\7. Methods\bin\Debug\net8.0\7. Methods.exe
+E:\Project-sayaaaaa\learn-C-Sharp\7. Methods\bin\Debug\net8.0\7. Methods.deps.json
+E:\Project-sayaaaaa\learn-C-Sharp\7. Methods\bin\Debug\net8.0\7. Methods.runtimeconfig.json
+E:\Project-sayaaaaa\learn-C-Sharp\7. Methods\bin\Debug\net8.0\7. Methods.dll
+E:\Project-sayaaaaa\learn-C-Sharp\7. Methods\bin\Debug\net8.0\7. Methods.pdb
+E:\Project-sayaaaaa\learn-C-Sharp\7. Methods\obj\Debug\net8.0\7. Methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project-sayaaaaa\learn-C-Sharp\7. Methods\obj\Debug\net8.0\7. Methods.AssemblyInfoInputs.cache
+E:\Project-sayaaaaa\learn-C-Sharp\7. Methods\obj\Debug\net8.0\7. Methods.AssemblyInfo.cs
+E:\Project-sayaaaaa\learn-C-Sharp\7. Methods\obj\Debug\net8.0\7. Methods.csproj.CoreCompileInputs.cache
+E:\Project-sayaaaaa\learn-C-Sharp\7. Methods\obj\Debug\net8.0\7. Methods.sourcelink.json
+E:\Project-sayaaaaa\learn-C-Sharp\7. Methods\obj\Debug\net8.0\7. Methods.dll
+E:\Project-sayaaaaa\learn-C-Sharp\7. Methods\obj\Debug\net8.0\refint\7. Methods.dll
+E:\Project-sayaaaaa\learn-C-Sharp\7. Methods\obj\Debug\net8.0\7. Methods.pdb
+E:\Project-sayaaaaa\learn-C-Sharp\7. Methods\obj\Debug\net8.0\7. Methods.genruntimeconfig.cache
+E:\Project-sayaaaaa\learn-C-Sharp\7. Methods\obj\Debug\net8.0\ref\7. Methods.dll
