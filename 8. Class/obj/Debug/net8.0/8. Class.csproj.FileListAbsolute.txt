@@ -1,0 +1,15 @@
+E:\Project-sayaaaaa\learn-C-Sharp\8. Class\obj\Debug\net8.0\8. Class.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project-sayaaaaa\learn-C-Sharp\8. Class\obj\Debug\net8.0\8. Class.AssemblyInfoInputs.cache
+E:\Project-sayaaaaa\learn-C-Sharp\8. Class\obj\Debug\net8.0\8. Class.AssemblyInfo.cs
+E:\Project-sayaaaaa\learn-C-Sharp\8. Class\obj\Debug\net8.0\8. Class.csproj.CoreCompileInputs.cache
+E:\Project-sayaaaaa\learn-C-Sharp\8. Class\obj\Debug\net8.0\8. Class.sourcelink.json
+E:\Project-sayaaaaa\learn-C-Sharp\8. Class\bin\Debug\net8.0\8. Class.exe
+E:\Project-sayaaaaa\learn-C-Sharp\8. Class\bin\Debug\net8.0\8. Class.deps.json
+E:\Project-sayaaaaa\learn-C-Sharp\8. Class\bin\Debug\net8.0\8. Class.runtimeconfig.json
+E:\Project-sayaaaaa\learn-C-Sharp\8. Class\bin\Debug\net8.0\8. Class.dll
+E:\Project-sayaaaaa\learn-C-Sharp\8. Class\bin\Debug\net8.0\8. Class.pdb
+E:\Project-sayaaaaa\learn-C-Sharp\8. Class\obj\Debug\net8.0\8. Class.dll
+E:\Project-sayaaaaa\learn-C-Sharp\8. Class\obj\Debug\net8.0\refint\8. Class.dll
+E:\Project-sayaaaaa\learn-C-Sharp\8. Class\obj\Debug\net8.0\8. Class.pdb
+E:\Project-sayaaaaa\learn-C-Sharp\8. Class\obj\Debug\net8.0\8. Class.genruntimeconfig.cache
+E:\Project-sayaaaaa\learn-C-Sharp\8. Class\obj\Debug\net8.0\ref\8. Class.dll
